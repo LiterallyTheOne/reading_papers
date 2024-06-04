@@ -6,6 +6,7 @@ reading papers
     :caption: Contents:
 
     transformer
+    diffusion
 
 
 
