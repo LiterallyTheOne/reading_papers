@@ -20,7 +20,7 @@ Run in python 3.12
 
 Yes, I ran it.
 
-In file ``lib/train/data``:
+In file ``lib/train/data.py``:
 
 .. code-block:: python
 
@@ -32,7 +32,7 @@ In file ``lib/train/data``:
     int_classes = int
 
 
-In file ``lib/models/stark``:
+In file ``lib/models/stark.py``:
 
 .. code-block:: python
 
