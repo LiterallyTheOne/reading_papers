@@ -7,6 +7,7 @@ reading papers
 
     transformer
     diffusion
+    vot/stark
 
 
 
