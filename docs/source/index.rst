@@ -8,6 +8,7 @@ reading papers
     transformer
     diffusion
     vot/stark
+    vot/general
 
 
 
